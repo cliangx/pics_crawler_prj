@@ -12,7 +12,7 @@
 
 - Scrapy架构图(绿线是数据流向)
 
-  ![](https://www.runoob.com/wp-content/uploads/2018/10/8c591d54457bb033812a2b0364011e9c_articlex.png)
+  ![](https://github.com/cliangx/pics_crawler_prj/blob/master/imgs/8c591d54457bb033812a2b0364011e9c_articlex.png)
 
 > - **Scrapy Engine(引擎)**
 > - **Scheduler(调度器)**
@@ -293,12 +293,12 @@
 
  2. 启动爬虫：`scrapy crawl jandan`，得到最终结果：
 
-    ![](C:\Users\Liang Chen\Desktop\图片爬虫项目\imgs\imgs.png)
+    ![](https://github.com/cliangx/pics_crawler_prj/blob/master/imgs/imgs.png)
 
     > 打开这个文件夹可以看到图片已经开始下载，（截取一部分）：
     >
-    > ![](C:\Users\Liang Chen\Desktop\图片爬虫项目\imgs\sucess.png)
+    > ![](https://github.com/cliangx/pics_crawler_prj/blob/master/imgs/sucess.png)
     >
     > 等待一段时间，所有图片下载完毕。。。
     >
-    > ![](C:\Users\Liang Chen\Desktop\图片爬虫项目\imgs\outcome.png)
+    > ![](https://github.com/cliangx/pics_crawler_prj/blob/master/imgs/outcome.png)
