@@ -271,7 +271,7 @@
 
  1. 首先把`page_addrs.py`脚本放在项目目录下，执行该脚本，会得到一个包含了所有页面地址的数据文件`page_addrs.pkl`如下：
 
-    ![](C:\Users\Liang Chen\Desktop\图片爬虫项目\imgs\pickle.png)
+    ![](https://github.com/cliangx/pics_crawler_prj/blob/master/imgs/pickle.png)
 
     > 注意一定要将该文件放在这个路径位置：
     >
